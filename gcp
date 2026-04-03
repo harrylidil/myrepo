@@ -1,0 +1,4 @@
+x = 7
+y = 10
+z = x+y
+Now the file output is z =17
